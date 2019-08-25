@@ -1,0 +1,23 @@
+# Mac
+.DS_Store
+
+# Xcode
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+*.dSYM.zip
+*.ipa
+
+# Carthage
+Carthage/Build
+Carthage/Checkouts
+
+# CocoaPods
+Pods
+
+# Gem
+.bundle/
+vendor/bundle
+
+# fastlane
+fastlane/report.xml
